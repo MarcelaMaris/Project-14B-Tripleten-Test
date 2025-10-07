@@ -1,8 +1,16 @@
-# 🧪 A/B Testing – Recommender System Experiment
+# 🧪 A/B Testing — Recommender System Experiment
 
-This project analyzes the results of an A/B test conducted by an international online store to evaluate the impact of a **new recommendation system** on user conversion behavior across different funnel stages.
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellow)
+![Statistics](https://img.shields.io/badge/Statistics-Z%20Test-green)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-Using **Python**, **Pandas**, and statistical testing (Z-tests), the analysis explores data quality, builds conversion funnels, and evaluates whether the new system led to statistically significant improvements.
+## 📌 Project Overview
+This project was developed as part of the **Data Analytics Bootcamp at [TripleTen](https://tripleten.com)**.  
+It analyzes the results of an **A/B experiment** conducted by an international online store to measure the impact of a **new recommender system** on user conversion behavior across different funnel stages.
+
+Using **Python**, **Pandas**, and statistical hypothesis testing, the analysis focuses on **data validation**, **conversion funnel construction**, and **Z-tests** to evaluate whether the new system led to statistically significant improvements in user conversion rates.
+
 
 💻 **Repository:** https://github.com/MarcelaMaris/Project-14B-Tripleten-Test
 
