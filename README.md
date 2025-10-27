@@ -12,7 +12,7 @@ It analyzes the results of an **A/B experiment** conducted by an international o
 Using **Python**, **Pandas**, and statistical hypothesis testing, the analysis focuses on **data validation**, **conversion funnel construction**, and **Z-tests** to evaluate whether the new system led to statistically significant improvements in user conversion rates.
 
 
-💻 **Repository:** https://github.com/MarcelaMaris/Project-14B-Tripleten-Test
+💻 **Repository:** [https://github.com/MarcelaMaris/AB-Testing-Recommender-System-Experiment](https://github.com/MarcelaMaris/AB-Testing-Recommender-System-Experiment)
 
 ---
 
