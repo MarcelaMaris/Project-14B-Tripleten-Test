@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="cover_ABtest.png" width="100%" alt="E-Commerce Analytics Dashboard cover">
+</p>
+
+
 # 🧪 A/B Testing — Recommender System Experiment
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
